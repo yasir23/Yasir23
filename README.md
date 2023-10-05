@@ -1,6 +1,6 @@
 
 
-![Blue Teal Bubbles Corporate LinkedIn Career Page Banner (1)](https://github.com/yasir23/Yasir23/assets/46179498/c98cdaaa-0951-4a9f-b7c1-1d91bc9eb728)
+![Blue Teal Bubbles Corporate LinkedIn Career Page Banner (2)](https://github.com/yasir23/Yasir23/assets/46179498/00fbaef1-2ea3-45bd-a2c9-ab9526fe91c7)
 
 
 <h1 align="center">Hi 👋, I'm Yasir Mushtaq</h1>
