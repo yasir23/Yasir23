@@ -1,9 +1,11 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
+
+![Blue Teal Bubbles Corporate LinkedIn Career Page Banner (1)](https://github.com/yasir23/Yasir23/assets/46179498/c98cdaaa-0951-4a9f-b7c1-1d91bc9eb728)
 
 
 <h1 align="center">Hi 👋, I'm Yasir Mushtaq</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<hr/>
+<h2 align="center">A passionate full stack developer from Pakistan</h2>
 
 
 
