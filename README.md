@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hey 🤗, I'm  Yasir Mushtaq</h1>
-<hr/>
+
 <h2 align="center">A passionate full stack developer from Pakistan</h2>
 
 
