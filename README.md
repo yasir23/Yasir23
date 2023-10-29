@@ -13,10 +13,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasir23" alt="yasir23" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yasir_khalily" target="blank"><img src="https://img.shields.io/twitter/follow/yasir_khalily?logo=twitter&style=for-the-badge" alt="yasir_khalily" /></a> </p>
 
 
-<img align="center" alt="Coding" width="500" src="https://www.rvcj.com/wp-content/uploads/2019/03/gif-startup-rocket.gif">
 
 <hr/>
 
