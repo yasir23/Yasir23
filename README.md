@@ -2,7 +2,7 @@
 
 ![Blue Teal Bubbles Corporate LinkedIn Career Page Banner (2)](https://github.com/yasir23/Yasir23/assets/46179498/00fbaef1-2ea3-45bd-a2c9-ab9526fe91c7)
 
-![](https://github.com/yasir23/blob/main/profile-3d-contrib/profile-season-animate.svg)
+
 
 <h1 align="center">Hey 🤗, I'm  Yasir Mushtaq</h1>
 
@@ -45,3 +45,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasir23&show_icons=true&locale=en" alt="yasir23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasir23&" alt="yasir23" /></p>
+
+<details>
+  <summary>📫 How to reach me?</summary>
+  <b>Email:</b> <a href="mailto:yasirkhalily44@gmail.com">yasirkhalily44@gmail.com</a><br>
+  <b>Discord:</b> DevOp Yasir<br>
+  <b>Telegram:</b> <a href="https://t.me/adisalimgereev"></a><br>
+</details>
