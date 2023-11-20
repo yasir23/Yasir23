@@ -50,6 +50,6 @@
 <details>
   <summary>📫 How to reach me?</summary>
   <b>Email:</b> <a href="mailto:yasirkhalily44@gmail.com">yasirkhalily44@gmail.com</a><br>
-  <b>Discord:</b> DevOP Yasir<br>
+  <b>Discord:</b> yasirali1149<br>
   <b>Telegram:</b> <a href="https://t.me/adisalimgereev"></a><br>
 </details>
