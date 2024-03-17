@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey 🤗, I'm  Yasir Mushtaq</h1>
 
-<h2 align="center">A full stack developer and Generative Engineer</h2>
+<h2 align="center">A full stack developer and Generative AI Engineer</h2>
 
 
 
