@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey 🤗, I'm  Yasir Mushtaq</h1>
 
-<h2 align="center">A Full stack Generative AI Developer</h2>
+<h2 align="center">A Full stack Generative AI Application Developer</h2>
 
 
 
@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **Websites === IM Victory === RaiBott === Terra Future === Quanta ===**
 
-- 🌱 I’m currently learning **Artificial intelligence, computer vision , Machine learning**
+- 🌱 I’m currently learning **Retrieval Augment Generation RAG**
 
 - 💬 Ask me about **Generative AI**
 
