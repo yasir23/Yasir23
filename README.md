@@ -67,7 +67,7 @@
  <h4 align="left">Graphic Designing</h4>
   
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="60" height="50"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="50"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg)" alt="photoshop" width="60" height="50"/> </a> 
   
  
 
