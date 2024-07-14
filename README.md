@@ -19,15 +19,15 @@
 
 <hr/>
 
-- 🔭 I’m currently working on **Websites === IM Victory === RaiBott === Terra Future === Quanta ===**
+- 🔭 I’m currently working on **Websites === IM Victory === RaiBott === Terra Future === Quanta ===creating RAG chatbots and APIs**
 
-- 🌱 I’m currently learning **Retrieval Augment Generation RAG**
+- 🌱 I’m currently learning **Three js and Web 3.0**
 
-- 💬 Ask me about **Generative AI**
+- 💬 Ask me about **Generative AI chatbots FREE consultancy (Email me!)!**
 
 - 📫 How to reach me **yasirkhalily44@gmail.com**
 
-- ⚡ Fun fact **Sense of humor...**
+- ⚡ Fun fact **Quik learner and very curious about the NEW Tech to help the world for better possiblities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
