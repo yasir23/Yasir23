@@ -59,7 +59,7 @@
 
 <h4 align="left">CLOUD Certifications</h4>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="60" height="50"/> </a> 
-<a href="https://cloud.azure.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="50"/> </a> <a href="https://cloud.azure.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="azure" width="60" height="50"/> </a>
+<a href="https://cloud.azure.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="50"/> </a> <a href="https://cloud.aws.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="60" height="50"/> </a>
 
 
  <h4 align="left">Graphic Designing</h4>
