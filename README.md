@@ -1,7 +1,7 @@
 
 
 ![Blue Teal Bubbles Corporate LinkedIn Career Page Banner (2)](https://github.com/yasir23/Yasir23/assets/46179498/00fbaef1-2ea3-45bd-a2c9-ab9526fe91c7)
-![Image of Floral Print Maxi Dress](https://m.media-amazon.com/images/I/71o2p-0s-OL._AC_UL1500_.jpg)
+
 
 
 <h1 align="center">Hey 🤗, I'm  Yasir Mushtaq</h1>
