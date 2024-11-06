@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey 🤗, I'm  Yasir Mushtaq</h1>
 
-<h2 align="center">A Full stack Generative AI Blockchain Application Developer</h2>
+<h2 align="center">A Full stack Generative AI Agent Blockchain Application Developer</h2>
 
 
 
@@ -21,9 +21,9 @@
 
 - 🔭 I’m currently working on **Websites === IM Victory === RaiBott === Terra Future === Quanta ===creating RAG chatbots and APIs**
 
-- 🌱 I’m currently learning **Three js and Web 3.0**
+- 🌱 I’m currently learning **AI Agents with coinbase and Web 3.0**
 
-- 💬 Ask me about **Generative AI chatbots FREE consultancy (Email me!)!**
+- 💬 Ask me about **Generative AI Agents FREE consultancy (Email me!)!**
 
 - 📫 How to reach me **yasirkhalily44@gmail.com**
 
