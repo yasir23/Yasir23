@@ -6,7 +6,7 @@
 
 <h1 align="center">Hey 🤗, I'm  Yasir Mushtaq</h1>
 
-<h2 align="center">A Full stack Generative AI Agent Blockchain Application Developer</h2>
+<h2 align="center">A Full stack Generative AI Agent Application Developer</h2>
 
 
 
